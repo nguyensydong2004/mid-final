@@ -1,3 +1,6 @@
+# Họ và tên: Nguyễn Sỹ Đồng
+# Mssv: 22010021
+
 # 📚 Web Giới Thiệu và Đánh Giá Sách
 
 ## 📖 Giới thiệu
