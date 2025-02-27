@@ -49,11 +49,15 @@
   - Quản lý tất cả đánh giá.
 
 ## 📌 Sơ đồ tuần tự
+-Đăng ký tài khoản
 -![Đăng ký tài khoản](public/asset/Picture1.png)
-
+-Đăng nhập tài khoản
 - ![Đăng nhập tài khoản](public/asset/Picture2.png)
+-Đăng xuất
 - ![Đăng xuất](public/asset/Picture3.png)
+-Quản lý sách
 - ![Quản lý sách](public/asset/Picture4.png)
+-Viết đánh giá sách
 - ![Viết đánh giá sách](public/asset/Picture5.png)
 
 ## 📌 Liên hệ
