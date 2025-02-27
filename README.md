@@ -49,8 +49,8 @@
   - Quản lý tất cả đánh giá.
 
 ## 📌 Sơ đồ tuần tự
-- Đăng ký tài khoản
-(asset/Picture1.png)
+- Đăng ký tài khoản(asset/Picture1.png)
+
 - Đăng nhập tài khoản
 (asset/Picture2.png)
 - Đăng xuất
