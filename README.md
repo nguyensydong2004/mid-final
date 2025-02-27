@@ -52,13 +52,13 @@
 -Đăng ký tài khoản
 -![Đăng ký tài khoản](public/asset/Picture1.png)
 -Đăng nhập tài khoản
-- ![Đăng nhập tài khoản](public/asset/Picture2.png)
+-![Đăng nhập tài khoản](public/asset/Picture2.png)
 -Đăng xuất
-- ![Đăng xuất](public/asset/Picture3.png)
+-![Đăng xuất](public/asset/Picture3.png)
 -Quản lý sách
-- ![Quản lý sách](public/asset/Picture4.png)
+-![Quản lý sách](public/asset/Picture4.png)
 -Viết đánh giá sách
-- ![Viết đánh giá sách](public/asset/Picture5.png)
+-![Viết đánh giá sách](public/asset/Picture5.png)
 
 ## 📌 Liên hệ
 Nếu có bất kỳ vấn đề nào, vui lòng liên hệ qua email **nguyensydong21112004@gmail.com**
