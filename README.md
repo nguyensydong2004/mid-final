@@ -27,18 +27,6 @@
 - **Người dùng**: Xem sách, đánh giá, cập nhật profile.
 - **Admin**: Quản lý sách, đánh giá, bình luận, cập nhật profile.
 
-## 📜 API Routes
-| Method  | Endpoint             | Mô tả                          |
-|---------|----------------------|--------------------------------|
-| GET     | /books               | Lấy danh sách sách            |
-| GET     | /books/{id}          | Lấy chi tiết một cuốn sách    |
-| POST    | /reviews             | Đánh giá sách                 |
-| GET     | /profile             | Xem thông tin cá nhân         |
-| PUT     | /profile             | Cập nhật thông tin cá nhân    |
-| POST    | /admin/books         | Thêm sách (admin)             |
-| PUT     | /admin/books/{id}    | Cập nhật thông tin sách       |
-| DELETE  | /admin/books/{id}    | Xóa sách                      |
-
 ## 📌 Sơ đồ cấu trúc/chức năng
 
 ### 1. Các thành phần chính:
