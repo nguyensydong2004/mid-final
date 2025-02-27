@@ -49,16 +49,16 @@
   - Quản lý tất cả đánh giá.
 
 ## 📌 Sơ đồ tuần tự
-- Đăng ký tài khoản(asset/Picture1.png)
+- Đăng ký tài khoản(public/asset/Picture2.png)
 
 - Đăng nhập tài khoản
-(asset/Picture2.png)
+(public/asset/Picture2.png)
 - Đăng xuất
-(asset/Picture3.png)
+(public/asset/Picture2.png)
 - Quản lý sách (Admin)
-(asset/Picture4.png)
+(public/asset/Picture2.png)
 - Viết đánh giá sách
-(asset/Picture5.png)
+(public/asset/Picture2.png)
 
 ## 📌 Liên hệ
 Nếu có bất kỳ vấn đề nào, vui lòng liên hệ qua email **nguyensydong21112004@gmail.com**
