@@ -50,18 +50,22 @@
 - **Admin (check-admin middleware)**:
   - Quản lý sách (tạo, chỉnh sửa, xóa).
   - Quản lý tất cả đánh giá.
-
+##Sơ đồ hoạt động hoặc flowchart để minh họa quá trình xử lý request từ client đến server
+-![](public/asset/anh1.png)
 ## 📌 Sơ đồ tuần tự
 -Đăng ký tài khoản
--![Đăng ký tài khoản](public/asset/Picture1.png)
+-![Đăng ký tài khoản](public/asset/anh3.png)
 -Đăng nhập tài khoản
--![Đăng nhập tài khoản](public/asset/Picture2.png)
+-![Đăng nhập tài khoản](public/asset/anh4.png)
 -Đăng xuất
--![Đăng xuất](public/asset/Picture3.png)
+-![Đăng xuất](public/asset/anh5.png)
 -Quản lý sách
--![Quản lý sách](public/asset/Picture4.png)
+-![Quản lý sách](public/asset/anh6.png)
 -Viết đánh giá sách
--![Viết đánh giá sách](public/asset/Picture5.png)
+-![Viết đánh giá sách](public/asset/anh7.png)
+
+## 📌 Cơ sở dữ liệu
+-![](public/asset/anh2.png)
 
 ## 📌 Liên hệ
 Nếu có bất kỳ vấn đề nào, vui lòng liên hệ qua email **nguyensydong21112004@gmail.com**
