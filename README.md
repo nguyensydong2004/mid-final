@@ -51,8 +51,8 @@
   - Quản lý sách (tạo, chỉnh sửa, xóa).
   - Quản lý tất cả đánh giá.
 
-## Sơ đồ hoạt động hoặc flowchart để minh họa quá trình xử lý request từ client đến server
--![](public/asset/anh1.png)
+## Sơ đồ cấu trúc
+-![](public/asset/anh8.png)
 ## 📌 Sơ đồ tuần tự
 - **Đăng ký tài khoản**:
 -![Đăng ký tài khoản](public/asset/anh3.png)

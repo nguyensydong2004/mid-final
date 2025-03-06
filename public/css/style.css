@@ -100,3 +100,9 @@ body{
     font-family: var(--btn-font-family);
     font-weight: 500;
 }
+
+.card-img-top {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
