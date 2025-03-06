@@ -60,7 +60,9 @@
 -![Đăng nhập tài khoản](public/asset/anh4.png)
 - **Đăng xuất**:
 -![Đăng xuất](public/asset/anh5.png)
-- **Viết đánh giá sách**:
+
+-![](public/asset/anh6.png)
+
 -![](public/asset/anh7.png)
 
 ## 📌 Cơ sở dữ liệu
