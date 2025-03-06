@@ -14,7 +14,7 @@
                     <div class="card-body">
                         <div class="row">
                             <div class="col-lg-11 col-md-11">
-                                <input type="text" class="form-control form-control-lg" value="{{Request::get('keyword')}}" name="keyword" placeholder="Search by title">
+                                <input type="text" class="form-control form-control-lg" value="{{Request::get('keyword')}}" name="keyword" placeholder="Tìm kiếm sách">
                             </div>
                             <div class="col-lg-1 col-md-1">
                                 <button class="btn btn-primary btn-lg w-100"><i class="fa-solid fa-magnifying-glass"></i></button>                                                                    
