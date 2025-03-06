@@ -60,8 +60,6 @@
 -![Đăng nhập tài khoản](public/asset/anh4.png)
 - **Đăng xuất**:
 -![Đăng xuất](public/asset/anh5.png)
-- **Quản lý sách**:
--![](public/asset/anh6.png)
 - **Viết đánh giá sách**:
 -![](public/asset/anh7.png)
 
