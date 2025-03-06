@@ -6,12 +6,10 @@ use App\Http\Controllers\ReviewController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
 
-
+// Home
 Route::get('/', [HomeController::class, 'index'])->name('home');
 Route::get('/book/{id}', [HomeController::class, 'detail'])->name('book.detail');
 Route::post('/save-book-review', [HomeController::class, 'saveReview'])->name('book.saveReview');
-
-
 
 
 
@@ -44,13 +42,11 @@ Route::group(['prefix' => 'account'], function(){
             Route::post('delete-review', [ReviewController::class, 'deleteReview'])->name('account.reviews.deleteReview');
 
         });
-        
-        
+         
         Route::get('my-reviews', [AccountController::class, 'myReviews'])->name('account.myReviews');
         Route::get('my-reviews/{id}', [AccountController::class, 'editReview'])->name('account.myReviews.editReview');
         Route::post('my-reviews/{id}', [AccountController::class, 'updateReview'])->name('account.myReviews.updateReview');
         Route::post('delete-my-reviews', [AccountController::class, 'deleteReview'])->name('account.myReviews.deleteReview');
-
 
     });
 });
