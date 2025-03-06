@@ -61,9 +61,9 @@
 - **Đăng xuất**:
 -![Đăng xuất](public/asset/anh5.png)
 - **Quản lý sách**:
--![Quản lý sách](public/asset/anh6.png)
+-![](public/asset/anh6.png)
 - **Viết đánh giá sách**:
--![Viết đánh giá sách](public/asset/anh7.png)
+-![](public/asset/anh7.png)
 
 ## 📌 Cơ sở dữ liệu
 -![](public/asset/anh2.png)
