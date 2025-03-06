@@ -63,7 +63,7 @@
 - **Quản lý sách**:
 -![Quản lý sách](public/asset/anh6.png)
 - **Viết đánh giá sách**:
--![Viết đánh giá sách](public/asset/anh7.png)
+-![Viết đánh giá sách](public/asset/anh6.png)
 
 ## 📌 Cơ sở dữ liệu
 -![](public/asset/anh2.png)
